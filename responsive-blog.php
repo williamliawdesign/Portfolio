@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>A Responsive Blog</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>A responsive blog design for food reviews. The blog was designed to work across all devices and screen sizes.</p>
             <p>I used tool like Photoshop, HTML5/CSS3 to design this site.</p>

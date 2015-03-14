@@ -5,8 +5,8 @@ include('./templates/header.php');
             </ul>
         </nav>
     </div>
-    <header>
-        <img src="./images/william_liaw.png" alt="Photo of William Liaw">
+    <header id="content">
+        <img src="./images/william_liaw.png" alt="Hi there, my name is William Liaw.">
         <h1>William Liaw</h1>
         <p>Hi there, my name is William Liaw. Most people call me Will. I'm a designer who cares about the front-end user. I make sure things are clean, simple, and easy to use. I also do front-end developemtn. That's a bit about me, take a look at my portfolio!</p>
     </header>

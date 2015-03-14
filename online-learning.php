@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>Online Learning Platform</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>CINEC Online Learning Platform let students connect with the teachers or tutors online. Students can receive help either on-demand or by scheduling a lesson or take any subject course online.</p><br/>
             <p>My main role as the lead designer was to provide user flow, gathering functional requirements, design wireframe, as well as visual mockups for funnel, dashboard, course content layout,online classroom application. I worked collaboratively with business owner and developers to ensure a great user experience and coherent visual identity.</p><br/>

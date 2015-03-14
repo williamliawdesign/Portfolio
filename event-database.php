@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>Event Database</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>This is a project for a nonprofit organization. My main role is to redesign and improve overall user experience for their event database.</p>
             <p>Tool: Adobe Photoshop</p>

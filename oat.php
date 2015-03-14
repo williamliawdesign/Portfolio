@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>BCIT Internal Client</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>This is a group project to redesign a website for BCIT's Office Administrator of Technology program. My role was mainly a front-end developer but I also worked with two designers and a back-end developer to best utilize available tools and techniques.</p><br/>
             <p>Tool: HTML/CSS, JavaScript, PHP.</p>

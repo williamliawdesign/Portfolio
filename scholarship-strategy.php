@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>Scholarship Strategy</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>Scholarship Strategy is an online video tutorial based membership platform that teaches students technique on how to apply for scholarships. I work as a user experience designer to design the whole website and applications as well as set user interface guidelines for their brand.</p><br/>
             <p>Tool: Adobe Photoshop, Illustrator, Balsamiq</p>

@@ -99,15 +99,14 @@ body {
   display: block;
   width: auto;
   height: auto;
-  padding: 15px 23px 14px;
+  padding: 8px 23px 8px;
   font-weight: bold;
   font-size: 14px;
   text-decoration: none;
   line-height: normal;
   color: #303030;
-  background-color: #f1f1f1;
-  border-radius: 40px;
-  box-shadow: 0 0 2px 2px rgba(0,0,0,0.6);
+  background-color: #dedede;
+  box-shadow: 0 0 1px 1px rgba(0,0,0,0.1);
 }
 
 .nav {

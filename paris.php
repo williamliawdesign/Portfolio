@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>Paris Tourism Site</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>A Paris Tourism Site sizes. The goal was to design a clean layout and easy navigate site.</p><br/>
             <p>Tool: HTML5/CSS3 PHP.</p>

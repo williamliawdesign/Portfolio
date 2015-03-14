@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>Iceland Tourism Site</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>This is my first hand-coded projct while training at BCIT Technical Web Designer Program. It's not well written and not semantic but I purposely kept it here to remind myself I can always be better than yesterday!</p><br/>
             <p>Tool: HTML/CSS</p>

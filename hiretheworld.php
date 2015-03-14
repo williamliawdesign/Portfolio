@@ -13,7 +13,7 @@ include('./templates/header.php');
         <h1>HiretheWorld.com</h1>
     </header>
     <main>
-        <article>
+        <article id="content">
             <h2>About the project</h2>
             <p>Hiretheworld is an online resource that connects employers with professional designers from around the world, allowing businesses to access top design talent quickly and easily. My primary goal is to redesign and improve the current site and applications and provide visitors with a pleasant and fulfilling experience. </p><br/>
             <p>Tool: Adobe Photoshop, Illustrator, Balsamiq</p>
