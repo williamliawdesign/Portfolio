@@ -30,7 +30,11 @@
 
 <body>
     <?php include_once("analyticstracking.php") ?>
+    <!--Skip to Content-->
+   
+    <!--End of skip to Content-->
     <div class="nav nav-down">
+        <a class="screen-reader-text" href="#content">skip to main content</a>
         <nav class="clearfix">
             <a class="brand" href="index.php">
                 <span>William Liaw</span>
